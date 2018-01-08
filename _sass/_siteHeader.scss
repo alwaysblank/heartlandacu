@@ -1,0 +1,97 @@
+
+.siteHeader {
+  padding: 2rem 1rem;
+  background-size: cover;
+  background-position: center;
+  background-color: lighten($blue, 20%);
+  position: relative;
+  border-bottom: 0.5rem solid $blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  @media (min-width: $body-width) {
+    padding: 4rem 2rem;
+  }
+
+  & > * {
+    z-index: 5;
+    position: relative;
+  }
+  
+  &::after {
+    display: block;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+    background-color: white;
+    opacity: 0.4;
+  }
+}
+
+.siteNav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 100%;
+  padding: 1rem;
+}
+
+.siteNav__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.siteNav__page {
+  display: inline-block;
+  padding: 0.5rem;
+  font-weight: bold;
+  letter-spacing: 0.01em;
+
+  &.active a {
+    border-bottom-color: $blue;
+  }
+
+  a {
+    transition: border $normal-speed;
+    border-bottom: 0.25rem solid transparent;
+    padding-bottom: 0.25rem;
+
+    &:hover,
+    &:active {
+      border-bottom-color: $blue;
+    }
+  }
+}
+
+.pageTitle {
+  display: block;
+  text-align: center;
+  width: 940px;
+  max-width: 100%;
+  margin: 2rem auto;
+  font-size: 3rem;
+}
+
+.pageIntro {
+  text-align: center;
+  
+  .pageTitle + &::before {
+    width: 5rem;
+    height: 1px;
+    display: block;
+    content: "";
+    background-color: black;
+    margin: 0 auto 2rem;
+  }
+
+  & > *:first-child {
+    margin-top: 0;
+  }
+}

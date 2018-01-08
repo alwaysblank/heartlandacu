@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{{ page.title }}
+{{ content }}
+
+<h4>Other FAQs:</h4>
+<ul>
+  {% for item in site.faq %}
+    {% if item.title != page.title %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

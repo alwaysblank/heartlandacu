@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<h3>{{ site.title }}</h3>
+
+<div class="address">
+  <span class="street">{{ site.contact.address.street }}</span>
+  <span class="city">{{ site.contact.address.city }}</span>, 
+  <span class="state">{{ site.contact.address.state }}</span>
+  <span class="zip">{{ site.contact.address.zip }}</span>
+</div>
+
+<div class="phone">
+  Call: <span class="phone">{{ site.contact.phone }}</span>
+</div>
+
+<div class="email">
+  Email: <span class="email">{{ site.contact.email }}</span>
+</div>
+
+{% include hourlist.html %}
+
+<div class="contactInfo">
+  {{ content }}
+</div>
+
+<div class="schedule">
+  <a href="{{ site.contact.schedule }}" class="scheduleLink">Schedule Now</a>
+</div>

@@ -1,0 +1,15 @@
+<header class="siteHeader" {% if page.masthead %} style="background-image: url(/assets/images/{{ page.masthead }})" {% endif %}>
+  <nav class="siteNav">
+    <ul class="siteNav__list">
+      {% for item in site.menu %}
+          <li class="siteNav__page {% if item.url == page.url %}active{% endif %}">
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <h1 class="pageTitle">{{ page.title }}</h1>
+  {% if page.intro %}
+    <div class="pageIntro">{{ page.intro | liquify | markdownify }}</div>
+  {% endif %}
+</header>

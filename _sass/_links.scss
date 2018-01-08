@@ -1,0 +1,10 @@
+a {
+  color: currentColor;
+  border-bottom: 1px solid $blue;
+  text-decoration: none;
+  transition: color $normal-speed;
+
+  &:hover {
+    color: $blue;
+  }
+}

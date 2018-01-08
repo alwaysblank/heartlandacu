@@ -1,0 +1,10 @@
+{% include head.html %}
+<body class="siteBody {{ page.layout | slugify }}">
+  {% include header.html %}
+
+  <main class="siteMain">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>
