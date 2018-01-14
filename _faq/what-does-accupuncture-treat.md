@@ -1,6 +1,6 @@
 ---
 title: What Does Acupuncture Treat?
-order: 2
+order: 1
 ---
 Acupuncture helps with pain and inflammation anywhere in the body.  Some conditions include:
 
