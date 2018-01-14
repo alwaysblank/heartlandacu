@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+masthead: /assets/images/uploads/sunset.png
 ---
 
 ## About Your Acupuncturist
