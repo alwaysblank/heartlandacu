@@ -2,9 +2,11 @@
 layout: page
 title: About
 masthead: /assets/images/uploads/sunset.png
+intro: ''
 ---
-
 ## About Your Acupuncturist
+
+![Your Acupuncturist](/assets/images/uploads/mara.jpg)
 
 Mara Bateman has always been intrigued and amazed by the capabilities of the human body and mind. She brings a joy, creativity, and intuitive understanding of the body into her practice as an acupuncturist and bodyworker. With each treatment she strives to create an interaction that is comfortable, healing, and very human. She feels that every person should have the care and support they deserve, regardless of age, class, sex, or income, or education.
 
