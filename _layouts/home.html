@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-
+<img class="homeLogo" src="/assets/images/heartland-logo.svg" alt="{{ site.data.settings.site.title }}">
+<div class="homeColumn">
 {{ content }}
 
 <h3 class="payMessage">{{ site.data.settings.site.paymessage | markdown }}</h3>
 
 {% include hourlist.html %}
+</div>

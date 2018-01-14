@@ -2,7 +2,6 @@
 layout: page
 title: About
 masthead: /assets/images/uploads/sunset.png
-intro: ''
 ---
 ## About Your Acupuncturist
 

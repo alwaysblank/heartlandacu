@@ -2,6 +2,17 @@
   .siteHeader {
     min-height: 60vh;
   }
+
+  .siteMain {
+    width: 1024px;
+    display: flex;
+  }
+
+  .homeLogo {
+    width: 200px;
+    height: auto;
+    margin-right: 2rem;
+  }
 }
 
 h3.payMessage {
