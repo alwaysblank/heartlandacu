@@ -13,6 +13,26 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "masthead", widget: "image"}
-      - {label: "Intro (optional)", name: "intro", widget: "markdown"}
+      - {label: "Featured Image", name: "masthead", widget: "image", required: false}
+      - {label: "Intro (optional)", name: "intro", widget: "markdown", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "faq" # Used in routes, e.g., /admin/collections/blog
+    label: "Frequently Asked Questions" # Used in the UI
+    folder: "_faq" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "faq/single"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "List Order", name: "order", widget: "number", required: false, default: 0, valueType: "int"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "Site"
+        name: "site"
+        file: "_config.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: text}
+          - {label: Payment Message, name: paymessage, widget: string}
