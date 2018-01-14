@@ -2,7 +2,7 @@
   <h4>Clinic Hours</h4>
 
   <ul class="hoursList">
-    {% for item in site.contact.hours %}
+    {% for item in site.data.settings.site.hours %}
       <li>{{ item.day }} --- {{ item.time }}</li>
     {% endfor %}
   </ul>

@@ -1,0 +1,18 @@
+title: Heartland Community Accupuncture
+description: >-
+  Heartland Community Acupuncture provides affordable acupuncture in a safe 
+  and nurturing atmosphere. Licensed Acupuncturist Mara Bateman uses gentle 
+  acupuncture techniques to relax the body and promote healing.
+paymessage: Pay what you can; everyone is welcome.
+email: wellness@heartlandacu.com
+phone: 541.760.5515
+street: "121 W Broadway Ave, Suite 12 (above the Orpheum Theater)"
+city: "Fairfield"
+state: "IA"
+zip: "52556"
+schedule: "https://www.schedulicity.com/scheduling/HCA5AW"
+hours:
+  - day: Wednesday
+    time: 1pm - 6pm
+  - day: Thursday
+    time: 9am - 2pm

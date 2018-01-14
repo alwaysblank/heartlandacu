@@ -4,6 +4,6 @@ layout: default
 
 {{ content }}
 
-<h3 class="payMessage">{{ site.paymessage | markdown }}</h3>
+<h3 class="payMessage">{{ site.data.settings.site.paymessage | markdown }}</h3>
 
 {% include hourlist.html %}

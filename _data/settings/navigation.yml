@@ -1,0 +1,15 @@
+menu:
+  - title: Home
+    url: /
+
+  - title: About
+    url: /about
+
+  - title: Appointments
+    url: /appointments
+
+  - title: FAQs
+    url: /faq
+
+  - title: Contact
+    url: /contact

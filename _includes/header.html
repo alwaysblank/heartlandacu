@@ -1,7 +1,7 @@
 <header class="siteHeader" {% if page.masthead %} style="background-image: url({{ page.masthead }})" {% endif %}>
   <nav class="siteNav">
     <ul class="siteNav__list">
-      {% for item in site.menu %}
+      {% for item in site.data.settings.navigation.menu %}
           <li class="siteNav__page {% if item.url == page.url %}active{% endif %}">
             <a href="{{ item.url }}">{{ item.title }}</a>
           </li>

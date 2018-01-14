@@ -8,7 +8,7 @@ intro: |
 
   or
 
-  **Call the Clinic at {{ site.contact.phone }}**
+  **Call the Clinic at {{ site.data.settings.site..phone }}**
 
   Walk-ins are welcome!
 ---

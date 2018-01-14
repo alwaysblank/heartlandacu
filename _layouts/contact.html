@@ -2,21 +2,21 @@
 layout: default
 ---
 
-<h3>{{ site.title }}</h3>
+<h3>{{ site.data.settings.site.title }}</h3>
 
 <div class="address">
-  <span class="street">{{ site.contact.address.street }}</span>
-  <span class="city">{{ site.contact.address.city }}</span>, 
-  <span class="state">{{ site.contact.address.state }}</span>
-  <span class="zip">{{ site.contact.address.zip }}</span>
+  <span class="street">{{ site.data.settings.site.street }}</span>
+  <span class="city">{{ site.data.settings.site.city }}</span>, 
+  <span class="state">{{ site.data.settings.site.state }}</span>
+  <span class="zip">{{ site.data.settings.site.zip }}</span>
 </div>
 
 <div class="phone">
-  Call: <span class="phone">{{ site.contact.phone }}</span>
+  Call: <span class="phone">{{ site.data.settings.site.phone }}</span>
 </div>
 
 <div class="email">
-  Email: <span class="email">{{ site.contact.email }}</span>
+  Email: <span class="email">{{ site.data.settings.site.email }}</span>
 </div>
 
 {% include hourlist.html %}
@@ -26,5 +26,5 @@ layout: default
 </div>
 
 <div class="schedule">
-  <a href="{{ site.contact.schedule }}" class="scheduleLink">Schedule Now</a>
+  <a href="{{ site.data.settings.site.schedule }}" class="scheduleLink">Schedule Now</a>
 </div>

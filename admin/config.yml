@@ -29,10 +29,40 @@ collections:
   - label: "Settings"
     name: "settings"
     files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/settings/navigation.yml"
+        fields:
+          - label: Menu
+            name: menu
+            widget: list
+            fields:
+              - {label: Name, name: title, widget: string}
+              - label: Page
+                name: url
+                widget: relation
+                collection: pages
+                searchFields: ['title']
+                valueField: permalink
       - label: "Site"
         name: "site"
-        file: "_config.yml"
+        file: "_data/settings/site.yml"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: text}
           - {label: Payment Message, name: paymessage, widget: string}
+          - {label: Email, name: email, widget: string, pattern: ['[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}', 'Enter a valid email address.']}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Street, name: street, widget: string}
+          - {label: City, name: city, widget: string}
+          - {label: State, name: state, widget: string}
+          - {label: Scheduling Link, name: schedule, widget: string, pattern: ['@^(https?|ftp)://[^\s/$.?#].[^\s]*$@iS', 'Enter a valid URL.']}
+          - label: Hours
+            name: hours
+            widget: list
+            fields:
+              - label: Day
+                name: day
+                widget: select
+                options: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+              - {label: Time, name: time, widget: string}
