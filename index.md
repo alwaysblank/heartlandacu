@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Heartland Community Accupuncture
+title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
 intro: 'Fairfield, Iowa'
 ---
