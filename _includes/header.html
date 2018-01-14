@@ -1,4 +1,4 @@
-<header class="siteHeader" {% if page.masthead %} style="background-image: url(/assets/images/{{ page.masthead }})" {% endif %}>
+<header class="siteHeader" {% if page.masthead %} style="background-image: url({{ page.masthead }})" {% endif %}>
   <nav class="siteNav">
     <ul class="siteNav__list">
       {% for item in site.menu %}

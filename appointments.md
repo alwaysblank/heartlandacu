@@ -2,7 +2,7 @@
 layout: page
 title: Appointments
 permalink: /appointments
-masthead: mountains.jpg
+masthead: /assets/images/uploads/mountains.jpg
 intro: |
   ### Schedule your appointment below.
 

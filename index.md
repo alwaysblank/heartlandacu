@@ -1,7 +1,7 @@
 ---
 title: Heartland Community Accupuncture
 intro: Fairfield, Iowa
-masthead: mountains.jpg
+masthead: /assets/images/uploads/mountains.jpg
 layout: home
 ---
 
