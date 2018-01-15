@@ -35,42 +35,6 @@
   }
 }
 
-.siteNav {
-  position: absolute;
-  top: 0;
-  right: 0;
-  max-width: 100%;
-  padding: 1rem;
-}
-
-.siteNav__list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.siteNav__page {
-  display: inline-block;
-  padding: 0.5rem;
-  font-weight: bold;
-  letter-spacing: 0.01em;
-
-  &.active a {
-    border-bottom-color: $blue;
-  }
-
-  a {
-    transition: border $normal-speed;
-    border-bottom: 0.25rem solid transparent;
-    padding-bottom: 0.25rem;
-
-    &:hover,
-    &:active {
-      border-bottom-color: $blue;
-    }
-  }
-}
-
 .pageTitle {
   display: block;
   text-align: center;
