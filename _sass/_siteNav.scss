@@ -17,6 +17,10 @@
   letter-spacing: 0.1em;
   position: relative;
   z-index: 20;
+
+  @media (min-width: $body-width) {
+    display: none;
+  }
 }
 
 .siteNav__list {
@@ -40,6 +44,16 @@
   &[hidden] {
     display: flex;
     transform: translateY(-100%);
+  }
+
+  @media (min-width: $body-width) {
+    transform: translateY(0) !important;
+    height: auto;
+    background-color: transparent;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: right;
+    padding: 0 1rem;
   }
 }
 
@@ -65,6 +79,11 @@
       border-bottom-color: white;
       color: black;
     }
+  }
+
+  @media (min-width: $body-width) {
+    font-size: 1rem;
+    margin: 0.5rem;
   }
 }
 
