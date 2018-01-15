@@ -19,8 +19,8 @@ hours:
     note: Closed
   - day: Wednesday
     times:
-      - close: '1080'
-        open: '780'
+      - close: '18:00'
+        open: '13:00'
   - day: Thursday
     times:
       - close: '840'
