@@ -51,6 +51,7 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: text}
           - {label: Payment Message, name: paymessage, widget: string}
+          - {label: Footer Image, name: footer_image, widget: image}
           - {label: Email, name: email, widget: string, pattern: ['[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}', 'Enter a valid email address.']}
           - {label: Phone, name: phone, widget: string}
           - {label: Street, name: street, widget: string}

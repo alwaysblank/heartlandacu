@@ -7,14 +7,53 @@
   z-index: 10;
   background-color: transparent;
   transition: background-color 0.5s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
   &.headerOut {
     background-color: $blue;
+
+    .embededLogo {
+      color: white;
+    }
   }
 
   @media (min-width: $body-width) {
     padding-top: 0;
     padding-bottom: 0.25rem;
+    flex-direction: row-reverse;
+  }
+
+  .siteNav__branding {
+    display: flex;
+    align-items: center;
+  }
+
+  .embededLogo {
+    color: $blue;
+    height: 2rem;
+    width: auto;
+    transition: color 0.5s;
+    display: inline-block;
+    
+    path {
+      stroke: white;
+      stroke-width:5;
+      stroke-linejoin: round;
+    }
+  }
+  
+  .siteNav__brandingName {
+    display: none;
+
+    @media (min-width: $body-width) {
+      display: inline-block;
+      font-family: 'Roboto Slab', serif;
+      font-size: 0.8em;
+      margin-left: 1rem;
+      color: white;
+    }
   }
 }
 
@@ -45,7 +84,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 10;
+  z-index: -1;
   height: 100%;
   width: 100%;
   background-color: $blue;
@@ -64,6 +103,7 @@
   @media (min-width: $body-width) {
     transform: translateY(0) !important;
     height: auto;
+    width: auto;
     background-color: transparent;
     flex-direction: row;
     justify-content: flex-end;

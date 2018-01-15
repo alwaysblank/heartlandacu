@@ -8,6 +8,10 @@
           </li>
       {% endfor %}
     </ul>
+    <div class="siteNav__branding">
+      {% include logo.html %}
+      <div class="siteNav__brandingName">{{ site.data.settings.site.title }}</div>
+    </div>
   </nav>
   <h1 class="pageTitle">{{ page.title }}</h1>
   {% if page.intro %}

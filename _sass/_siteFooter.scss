@@ -1,16 +1,10 @@
 .siteFooter {
   padding: 2.5rem;
-  padding-top: 0;
   font-size: 0.8em;
-
-  &::before {
-    width: 5rem;
-    height: 1px;
-    display: block;
-    content: "";
-    background-color: black;
-    margin: 0 auto 2rem;
-  }
+  border-top: 0.5rem solid $blue;
+  background-size: cover;
+  background-position: center;
+  position: relative;
 
   .copyright {
     text-align: center;
@@ -20,6 +14,24 @@
   
   .linkback {
     text-align: center;
+  }
+
+  & > * {
+    position: relative;
+    z-index: 5;
+  }
+
+  &::after {
+    display: block;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+    background-color: white;
+    opacity: 0.4;
   }
 
   @media (min-width: $body-width) {

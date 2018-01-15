@@ -1,4 +1,4 @@
-<footer class="siteFooter">
+<footer class="siteFooter" {% if site.data.settings.site.footer_image %} style="background-image: url({{ site.data.settings.site.footer_image }})" {% endif %}>
   {% unless page.layout == 'contact' %}
   {% include contact.html %}
   {% include address.html %}
