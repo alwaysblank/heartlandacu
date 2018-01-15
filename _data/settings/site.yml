@@ -15,32 +15,25 @@ schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
   - day: Monday
     note: Closed
-    time: ''
   - day: Tuesday
     note: Closed
-    time: ''
   - day: Wednesday
-    time: ''
     times:
-      - close: 6pm
-        open: 1pm
+      - close: '1080'
+        open: '780'
   - day: Thursday
-    time: ''
     times:
-      - close: 2pm
-        open: 9am
+      - close: '840'
+        open: '09:00'
   - day: Friday
-    time: ''
     times:
-      - close: 6pm
-        open: 1pm
+      - close: '1080'
+        open: '780'
   - day: Saturday
-    time: ''
     times:
-      - close: 2pm
-        open: 9am
+      - close: '840'
+        open: '09:00'
   - day: Sunday
-    time: ''
     times:
-      - close: 5pm
-        open: 1pm
+      - close: '1020'
+        open: '780'
