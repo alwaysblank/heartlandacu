@@ -1,14 +1,7 @@
 .siteFooter {
   padding: 1rem;
-}
-
-.siteFooter__contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.siteFooter__contactVector {
-  margin-bottom: 0.5rem;
 }

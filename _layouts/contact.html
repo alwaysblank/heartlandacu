@@ -4,27 +4,14 @@ layout: default
 
 <h3>{{ site.data.settings.site.title }}</h3>
 
-<div class="address">
-  <span class="street">{{ site.data.settings.site.street }}</span>
-  <span class="city">{{ site.data.settings.site.city }}</span>, 
-  <span class="state">{{ site.data.settings.site.state }}</span>
-  <span class="zip">{{ site.data.settings.site.zip }}</span>
-</div>
+{% include address.html %}
 
-<div class="phone">
-  Call: <span class="phone">{{ site.data.settings.site.phone }}</span>
-</div>
+{% include contact.html %}
 
-<div class="email">
-  Email: <span class="email">{{ site.data.settings.site.email }}</span>
-</div>
-
-{% include hourlist.html %}
+{% include hours.html %}
 
 <div class="contactInfo">
   {{ content }}
 </div>
 
-<div class="schedule">
-  <a href="{{ site.data.settings.site.schedule }}" class="scheduleLink">Schedule Now</a>
-</div>
+{% include schedule.html %}

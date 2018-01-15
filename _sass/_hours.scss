@@ -1,0 +1,28 @@
+.hours {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  max-width: 100%;
+
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .day,
+  .time {
+    flex: 0 0 auto;
+    font-weight: bold;
+  }
+
+  .spacer {
+    flex: 1 1 auto;
+    min-width: 1rem;
+    margin: auto 0.5rem;
+    height: 1px;
+    background-color: black;
+    opacity: 0.25;
+  }
+}

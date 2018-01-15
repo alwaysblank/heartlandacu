@@ -1,0 +1,13 @@
+<div class="physicalAddress">
+  <a 
+    href="https://www.google.com/maps/search/?api=1&query={{ site.data.settings.site.title | url_encode }}&query_place_id={{ site.data.settings.site.place_id}}"
+    target="_blank"
+    rel="noopener noreferrer">
+    <span>
+      <span class="street">{{ site.data.settings.site.street }}</span>
+      <span class="city">{{ site.data.settings.site.city }}</span>, 
+      <span class="state">{{ site.data.settings.site.state }}</span>
+      <span class="zip">{{ site.data.settings.site.zip }}</span>
+    </span>
+  </a>
+</div>

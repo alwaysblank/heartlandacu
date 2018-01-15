@@ -4,11 +4,10 @@ title: Appointments
 permalink: /appointments
 masthead: /assets/images/uploads/mountains.jpg
 intro: |
-  ### Schedule your appointment below.
-
+  {% include schedule.html %}
   or
 
-  **Call the Clinic at {{ site.data.settings.site..phone }}**
+  **Call the Clinic at {{ site.data.settings.site.phone }}**
 
   Walk-ins are welcome!
 ---

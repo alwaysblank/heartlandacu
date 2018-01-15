@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% unless content == blank %}
+  {{ content }}
+{%endunless %}
+
 {% assign faqs = site.faq | sort: 'order' %}
 {% for item in faqs %}
   <h2 class="faqIndex__title"><a href="{{ item.url }}">{{ item.title }}</a></h2>

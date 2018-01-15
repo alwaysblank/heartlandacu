@@ -56,6 +56,7 @@ collections:
           - {label: Street, name: street, widget: string}
           - {label: City, name: city, widget: string}
           - {label: State, name: state, widget: string}
+          - {label: Google Place ID, name: place_id, widget: string}
           - {label: Scheduling Link, name: schedule, widget: string, pattern: ['@^(https?|ftp)://[^\s/$.?#].[^\s]*$@iS', 'Enter a valid URL.']}
           - label: Hours
             name: hours

@@ -6,12 +6,14 @@
   .siteMain {
     width: 1024px;
     display: flex;
+    align-items: flex-start;
   }
 
   .homeLogo {
     width: 200px;
     height: auto;
     margin-right: 2rem;
+    margin-top: 2rem;
   }
 }
 

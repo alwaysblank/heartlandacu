@@ -10,9 +10,20 @@ street: "121 W Broadway Ave, Suite 12 (above the Orpheum Theater)"
 city: "Fairfield"
 state: "IA"
 zip: "52556"
+place_id: "ChIJv_-aDGxm5ocRjL02GOEvIHg"
 schedule: "https://www.schedulicity.com/scheduling/HCA5AW"
 hours:
+  - day: Monday
+    time: Closed
+  - day: Tuesday
+    time: Closed
   - day: Wednesday
     time: 1pm - 6pm
   - day: Thursday
     time: 9am - 2pm
+  - day: Friday
+    time: 1pm - 6pm
+  - day: Saturday
+    time: 9am - 2pm
+  - day: Sunday
+    time: 1pm - 5pm
