@@ -1,6 +1,6 @@
 ---
 layout: faq/index
 title: Frequently Asked Questions
-masthead: /assets/images/uploads/e-s-pe2emre-rowan-heuvel.jpg
+masthead: /assets/images/uploads/sergey-pesterev-222160.jpg
 ---
 Some body
