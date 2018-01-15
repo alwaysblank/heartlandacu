@@ -3,13 +3,24 @@
   top: 0;
   right: 0;
   width: 100%;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   z-index: 10;
+  background-color: transparent;
+  transition: background-color 0.5s;
+
+  &.headerOut {
+    background-color: $blue;
+  }
+
+  @media (min-width: $body-width) {
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+  }
 }
 
 .siteNav__toggle {
-  background-color: rgba($blue, 0.66);
-  border: 3px solid $blue;
+  background-color: $blue;
+  border: 3px solid white;
   transition: background-color 0.2s;
   font-weight: bold;
   padding: 0.5rem 1rem;
@@ -17,6 +28,10 @@
   letter-spacing: 0.1em;
   position: relative;
   z-index: 20;
+
+  .headerOut & {
+    background-color: white;
+  }
 
   @media (min-width: $body-width) {
     display: none;
@@ -54,6 +69,7 @@
     justify-content: flex-end;
     text-align: right;
     padding: 0 1rem;
+    position: relative;
   }
 }
 
@@ -63,7 +79,7 @@
   margin: 0.5rem auto;
   font-weight: bold;
   letter-spacing: 0.01em;
-  font-size: 2rem;
+  font-size: 1.5rem;
 
   &.active a {
     border-bottom-color: white;
