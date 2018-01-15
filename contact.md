@@ -1,6 +1,6 @@
 ---
 title: Contact
 layout: contact
-path: /contact
+permalink: /contact
 ---
 Closed Monday & Tuesday
