@@ -1,7 +1,31 @@
 .siteFooter {
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+  padding: 2.5rem;
+  padding-top: 0;
+  font-size: 0.8em;
+
+  &::before {
+    width: 5rem;
+    height: 1px;
+    display: block;
+    content: "";
+    background-color: black;
+    margin: 0 auto 2rem;
+  }
+
+  .copyright {
+    text-align: center;
+    font-style: italic;
+    margin-top: 2rem;
+  }
+  
+  .linkback {
+    text-align: center;
+  }
+
+  @media (min-width: $body-width) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 }

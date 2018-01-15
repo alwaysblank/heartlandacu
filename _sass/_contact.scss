@@ -1,0 +1,8 @@
+body.contact {
+  .contactBlock,
+  .physicalAddress {
+    @media (max-width: $body-width) {
+      padding: 0 1.5rem;
+    }
+  }
+}

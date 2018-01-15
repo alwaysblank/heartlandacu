@@ -1,6 +1,8 @@
 <footer class="siteFooter">
   {% unless page.layout == 'contact' %}
-    {% include contact.html %}
-    {% include address.html %}
+  {% include contact.html %}
+  {% include address.html %}
   {% endunless %}
+  <div class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.data.settings.site.title }}</div>
+  <div class="linkback"><a href="https://www.alwaysblank.org" target="_blank" rel="noopener noreferrer">Built by Ben</a></div>
 </footer>

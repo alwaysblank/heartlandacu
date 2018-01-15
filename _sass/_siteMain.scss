@@ -18,7 +18,13 @@
   }
 
   .page & img {
-    float: right;
-    margin: 0.5rem;
+    margin: 0.5rem auto;
+    display: block;
+
+    @media (min-width: $body-width) {
+      margin: 0.5rem;
+      display: inline-block;
+      float: right;
+    }
   }
 }

@@ -1,20 +1,16 @@
 .physicalAddress {
   display: inline-block;
-  margin-bottom: 1rem;
-  position: relative;
-
-  a::before {
-    content: "📍";
-    position: absolute;
-    left: -1.25rem;
-    top: 0;
-  }
+  margin-bottom: 1rem;  
 
   a {
+    position: relative;
     border-bottom: 0;
 
-    span {
-      border-bottom: 1px solid $blue;
+    &::before {
+      content: "📍";
+      position: absolute;
+      left: -1rem;
+      top: 0;
     }
   }
 

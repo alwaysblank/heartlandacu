@@ -5,15 +5,25 @@
 
   .siteMain {
     width: 1024px;
-    display: flex;
-    align-items: flex-start;
+    max-width: 100%;
+    
+    @media (min-width: $body-width) {
+      display: flex;
+      align-items: flex-start;
+    }
   }
-
+  
   .homeLogo {
-    width: 200px;
+    width: 100px;
     height: auto;
-    margin-right: 2rem;
-    margin-top: 2rem;
+    margin: 0 auto;
+    display: block;
+    
+    @media (min-width: $body-width) {
+      width: 200px;
+      margin-right: 2rem;
+      margin-top: 2rem;
+    }
   }
 }
 

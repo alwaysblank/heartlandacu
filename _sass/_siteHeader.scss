@@ -1,6 +1,6 @@
 
 .siteHeader {
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
   background-size: cover;
   background-position: center;
   background-color: lighten($blue, 20%);
@@ -10,9 +10,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 400px;
+  min-height: 33vh;
   
   @media (min-width: $body-width) {
+    min-height: 400px;
     padding: 4rem 2rem;
   }
 
@@ -41,7 +42,10 @@
   width: 940px;
   max-width: 100%;
   margin: 2rem auto;
-  font-size: 3rem;
+  
+  @media (min-width: $body-width) {
+    font-size: 3rem;
+  }
 }
 
 .pageIntro {

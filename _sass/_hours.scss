@@ -2,8 +2,12 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 100%;
   max-width: 100%;
+
+  @media (min-width: 420px) {
+    width: 300px;
+  }
 
   li {
     display: flex;

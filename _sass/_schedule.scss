@@ -3,7 +3,6 @@
   text-align: center;
 
   a {
-    font-size: 1.5rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-weight: 900;
@@ -12,20 +11,20 @@
     border: 3px solid darken($blue, 10%);
     display: inline-block;
     position: relative;
-    padding: 0.5rem;
-    padding-left: 4rem;
-    padding-right: 1rem;
+    padding: 0.5em;
+    padding-left: 3.25em;
+    padding-right: 1em;
     overflow: hidden;
     transition: background-color 0.25s;
-
+    
     &::before,
     &::after {
       position: absolute;
-      left: 1rem;
-      top: 0.5rem;
+      left: 1em;
+      top: 0.5em;
       transition: transform 0.25s;
     }
-
+    
     &::before {
       content: "📅";
       transform: translateY(0);
@@ -33,20 +32,24 @@
     
     &::after {
       content: "👍";
-      transform: translateY(120%);
+      transform: translateY(150%);
     }
-
+    
     &:hover {
       color: black;
       background-color: rgba($blue, 0.25);
-
+      
       &::before {
-        transform: translateY(-120%);
+        transform: translateY(-150%);
       }
-
+      
       &::after {
         transform: translateY(0);
       }
+    }
+    
+    @media (min-width: $body-width) {
+      font-size: 1.5rem;      
     }
   }
 }
