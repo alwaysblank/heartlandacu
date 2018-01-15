@@ -17,14 +17,30 @@ hours:
     note: Closed
     time: ''
   - day: Tuesday
-    time: Closed
+    note: Closed
+    time: ''
   - day: Wednesday
-    time: 1pm - 6pm
+    time: ''
+    times:
+      - close: 6pm
+        open: 1pm
   - day: Thursday
-    time: 9am - 2pm
+    time: ''
+    times:
+      - close: 2pm
+        open: 9am
   - day: Friday
-    time: 1pm - 6pm
+    time: ''
+    times:
+      - close: 6pm
+        open: 1pm
   - day: Saturday
-    time: 9am - 2pm
+    time: ''
+    times:
+      - close: 2pm
+        open: 9am
   - day: Sunday
-    time: 1pm - 5pm
+    time: ''
+    times:
+      - close: 5pm
+        open: 1pm
