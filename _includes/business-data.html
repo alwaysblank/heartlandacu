@@ -11,16 +11,16 @@
     },
     "name": "{{site.data.settings.site.title}}",
     "description": "{{ site.data.settings.site.description }}",
-    "image": "{{ site.data.settings.site.business_image }}"
+    "image": "{{ site.data.settings.site.business_image }}",
     "openingHours": [
-      {% for item in site.data.settings.site.hours %}
-        {% if item.times %}
+      {%- for item in site.data.settings.site.hours -%}
+        {%- if item.times -%}
           "{{item | opening_hours }}"
-          {% unless forloop.last == true %}
+          {%- unless forloop.last == true -%}
             ,
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endfor -%}
     ],
     "priceRange": "$",
     "telephone": "{{ site.data.settings.site.phone }}",
