@@ -23,8 +23,6 @@ hours:
     times:
       - close: '18'
         open: '13'
-      - close: '1'
-        open: '23'
   - day: Thursday
     times:
       - close: '14'
