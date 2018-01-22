@@ -52,19 +52,86 @@ collections:
           - {label: Description, name: description, widget: text}
           - {label: Payment Message, name: paymessage, widget: string}
           - {label: Footer Image, name: footer_image, widget: image}
-          - {label: Email, name: email, widget: string, pattern: ['[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}', 'Enter a valid email address.']}
+          - {label: Email, name: email, widget: string}
           - {label: Phone, name: phone, widget: string}
           - {label: Street, name: street, widget: string}
           - {label: City, name: city, widget: string}
           - {label: State, name: state, widget: string}
+          - {label: Business Image, name: business_image, widget: image}
+          - {label: Location Note, name: location_note, widget: string, required: false}
           - {label: Google Place ID, name: place_id, widget: string}
-          - {label: Scheduling Link, name: schedule, widget: string, pattern: ['@^(https?|ftp)://[^\s/$.?#].[^\s]*$@iS', 'Enter a valid URL.']}
+          - {label: Scheduling Link, name: schedule, widget: string}
           - label: Hours
             name: hours
             widget: list
+            required: false
             fields:
               - label: Day
                 name: day
                 widget: select
                 options: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-              - {label: Time, name: time, widget: string}
+              - label: Time
+                name: times
+                widget: list
+                required: false
+                fields:
+                  - label: Open
+                    name: open
+                    widget: select
+                    options: 
+                      - { label: 9am, value: 09}
+                      - { label: 10am, value: 10}
+                      - { label: 11am, value: 11}
+                      - { label: 12am, value: 12}
+                      - { label: 1pm, value: 13}
+                      - { label: 2pm, value: 14}
+                      - { label: 3pm, value: 15}
+                      - { label: 4pm, value: 16}
+                      - { label: 5pm, value: 17}
+                      - { label: 6pm, value: 18}
+                      - { label: 7pm, value: 19}
+                      - { label: 8pm, value: 20}
+                      - { label: 9pm, value: 21}
+                      - { label: 10pm, value: 22}
+                      - { label: 11pm, value: 23}
+                      - { label: 12am, value: 00}
+                      - { label: 1am, value: 01}
+                      - { label: 2am, value: 02}
+                      - { label: 3am, value: 03}
+                      - { label: 4am, value: 04}
+                      - { label: 5am, value: 05}
+                      - { label: 6am, value: 06}
+                      - { label: 7am, value: 07}
+                      - { label: 8am, value: 08}
+                  - label: Close
+                    name: close
+                    widget: select
+                    options: 
+                      - { label: 9am, value: 09}
+                      - { label: 10am, value: 10}
+                      - { label: 11am, value: 11}
+                      - { label: 12am, value: 12}
+                      - { label: 1pm, value: 13}
+                      - { label: 2pm, value: 14}
+                      - { label: 3pm, value: 15}
+                      - { label: 4pm, value: 16}
+                      - { label: 5pm, value: 17}
+                      - { label: 6pm, value: 18}
+                      - { label: 7pm, value: 19}
+                      - { label: 8pm, value: 20}
+                      - { label: 9pm, value: 21}
+                      - { label: 10pm, value: 22}
+                      - { label: 11pm, value: 23}
+                      - { label: 12am, value: 00}
+                      - { label: 1am, value: 01}
+                      - { label: 2am, value: 02}
+                      - { label: 3am, value: 03}
+                      - { label: 4am, value: 04}
+                      - { label: 5am, value: 05}
+                      - { label: 6am, value: 06}
+                      - { label: 7am, value: 07}
+                      - { label: 8am, value: 08}
+              - label: Note
+                name: note
+                widget: string
+                required: false

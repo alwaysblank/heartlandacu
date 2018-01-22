@@ -6,7 +6,16 @@
       <li>
         <span class="day">{{ item.day }}</span>
         <span class="spacer"></span>
-        <span class="time">{{ item.time }}</span>
+        <span class="time">
+          {% if item.note %}
+            <span class="note">{{ item.note }}</span>
+          {% endif %}
+          {% if item.times %}
+            {% for time in item.times %}
+              {{ time.open | am_pm }} - {{ time.close | am_pm }}
+            {% endfor %}
+          {% endif %}
+        </span>
       </li>
     {% endfor %}
   </ul>
