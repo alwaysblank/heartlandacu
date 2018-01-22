@@ -11,7 +11,7 @@
     },
     "name": "{{site.data.settings.site.title}}",
     "description": "{{ site.data.settings.site.description }}",
-    "image": "{{ site.data.settings.site.business_image }}",
+    "image": "{{ site.url }}{{ site.data.settings.site.business_image }}",
     "openingHours": [
       {%- for item in site.data.settings.site.hours -%}
         {%- if item.times -%}
