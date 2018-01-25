@@ -15,10 +15,11 @@ location_note: (above the Orpheum Theater)
 place_id: ChIJv_-aDGxm5ocRjL02GOEvIHg
 schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
-  - day: Monday
-    note: Closed
   - day: Tuesday
-    note: Closed
+    note: ''
+    times:
+      - close: '14'
+        open: 09
   - day: Wednesday
     times:
       - close: '18'
@@ -36,6 +37,6 @@ hours:
       - close: '14'
         open: 09
   - day: Sunday
-    times:
-      - close: '17'
-        open: '13'
+    note: closed
+  - day: Monday
+    note: closed
