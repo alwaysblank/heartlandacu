@@ -1,6 +1,5 @@
 ---
-title: Contact
 layout: contact
-permalink: /contact
+title: Contact
 ---
-Closed Monday & Tuesday
+Closed Sunday and Monday
