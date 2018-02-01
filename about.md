@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about
 masthead: /assets/images/uploads/sunset.png
 ---
 ## About Your Acupuncturist
@@ -10,7 +9,7 @@ masthead: /assets/images/uploads/sunset.png
 
 Mara Bateman has always been intrigued and amazed by the capabilities of the human body and mind. She brings a joy, creativity, and intuitive understanding of the body into her practice as an acupuncturist and bodyworker. With each treatment she strives to create an interaction that is comfortable, healing, and very human. She feels that every person should have the care and support they deserve, regardless of age, class, sex, or income, or education.
 
-Mara Bateman is a Licensed Acupuncturist and Diplomate of Oriental Medicine with the NCCAOM. She holds a Master’s Degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine in Portland, OR. She is also a 200 hour certified Yoga Instructor, and is a certified AcuDetox Specialist with the National Acupuncture Detoxification Association (NADA).
+Mara Bateman is a Licensed Acupuncturist and Diplomate of Oriental Medicine with the NCCAOM. She holds a Master’s Degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine in Portland, OR where she studied acupuncture, Chinese herbal medicine and nutrition, and Tuina and Shiatsu Massage. She is also a 200 hour certified Yoga Instructor, and is a certified AcuDetox Specialist with the National Acupuncture Detoxification Association (NADA).
 
 ## About Community Acupuncture
 
@@ -27,3 +26,7 @@ Patients may rest as long as they like; at least a 30 minute needle retention ti
 Acupuncture is most effective cumulatively so frequency and consistency are important in achieving your health goals with acupuncture treatment.
 
 Side effects include: better sleep and mood, reduced pain, improved digestion and increased energy.
+
+## About Shiatsu
+
+Shiatsu is a form of Japanese Meridan massage. It is a gentle but highly effective bodywork technique that excels at releasing both physical and emotional blockages.  Shiatsu is traditionally performed with the recipient fully clothed reclining on a futon rather than on a massage table.  The practitioner uses passive stretches and gentle to firm pressure along the meridians of the body to promote the flow of Qi and blood, reduce pain and tension, and calm the spirit.
