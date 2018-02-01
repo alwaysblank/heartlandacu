@@ -5,7 +5,7 @@ masthead: /assets/images/uploads/mountains.jpg
 intro: |-
   Fairfield, Iowa
 
-  _**New Patient Special!  $60 for 2 weeks of unlimited acupuncture!** _
+  **New Patient Special!  $60 for 2 weeks of unlimited acupuncture!**
 ---
 ## Welcome to Heartland Community Acupuncture!
 
@@ -15,4 +15,8 @@ Our sliding scale payment allows you to receive enough acupuncture to get well a
 
 Acupuncture can address a wide variety of conditions including: stress, feelings of anxiety and depression, body pain and trauma recovery, hormonal issues, sleep trouble, fatigue, digestive issues, and much more.  See FAQs for more information on what acupuncture can help you with.
 
-**Your first visit is $25-$45, and all following visits are $15-$35.**
+We also offer one-on-one Shiatsu Massage sessions by appointment during non-community clinic hours.  For more information about Shiatsu see our About page.   
+
+**Your first acupuncture visit is $25-$45, and all following visits are $15-$35.**
+
+**Shiatsu sessions are $45-$60 for 45 minutes.**
