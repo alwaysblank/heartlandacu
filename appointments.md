@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Appointments
-permalink: /appointments
 masthead: /assets/images/uploads/mountains.jpg
 intro: |
   {% include schedule.html %}
@@ -11,7 +10,6 @@ intro: |
 
   Walk-ins are welcome!
 ---
-
 ## First Visit
 
 Please arrive 15 minutes early for your first visit to fill out paperwork.
@@ -34,7 +32,7 @@ Return visits are $15-$35. First visits are $25-$45, including the addition of a
 
 ## Closing Time
 
-We close 45 minutes following the last appointment time on the schedule.
+We close 30 minutes following the last appointment time on the schedule.
 
 ## Cancellations
 
