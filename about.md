@@ -11,6 +11,8 @@ Mara Bateman has always been intrigued and amazed by the capabilities of the hum
 
 Mara Bateman is a Licensed Acupuncturist and Diplomate of Oriental Medicine with the NCCAOM. She holds a Master’s Degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine in Portland, OR where she studied acupuncture, Chinese herbal medicine and nutrition, and Tuina and Shiatsu Massage. She is also a 200 hour certified Yoga Instructor, and is a certified AcuDetox Specialist with the National Acupuncture Detoxification Association (NADA).
 
+Heartland Community Acupuncture is a member of POCA (The People's Organization of Community Acupuncture) a national cooperative of community acupuncture clinics and practitioners.  For more information about POCA, or to locate other community acupuncture clinics, visit [www.pocacoop.com](www.pocacoop.com). 
+
 ## About Community Acupuncture
 
 Community Acupuncture is a low-cost, sliding scale alternative to traditional one-on-one acupuncture treatment. During a community acupuncture session multiple people receive acupuncture treatments while in the same room. Doing acupuncture on a group of people instead of one at a time allows costs to be kept low, and creates a relaxing and supportive atmosphere for treatment.
