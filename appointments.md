@@ -28,13 +28,15 @@ Shiatsu sessions are performed one-on-one and last 45 minutes.  It is also impor
 
 ## Payment
 
-We take cash, check or card. We do not bill insurance due to our sliding scale payment model. Please pay prior to treatment. 
+We take cash, check or card, though cash or check is preferable due to high processing fees. We do not bill insurance due to our sliding scale payment model. Please pay prior to treatment. 
 
-Acupuncture return visits are $15-$35. First visits are $25-$45, including the addition of a one-time $10 intake fee. 
-
-Shiatsu sessions are $45-$60 for 45 minutes.
+Acupuncture return visits are $15-$35. First visits are $25-$45, including the addition of a one-time $10 intake fee.  
 
 Pay what you are able; we never ask about income.
+
+You may pre-pay for multiple treatments by purchasing a 5 or 10 treatment package.  You will receive a punchcard and simply mark off visits as you go, so you don't have to worry about bringing to correct cash, checkbook, etc.  The 5 treatment package is $125 and the 10 treatment package is $250.  They are valid for one year from time of purchase.
+
+Shiatsu sessions are $45-$60 for 45 minutes.
 
 ## Closing Time
 
