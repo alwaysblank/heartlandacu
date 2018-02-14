@@ -19,4 +19,10 @@ We also offer one-on-one Shiatsu Massage sessions by appointment during non-comm
 
 **Your first acupuncture visit is $25-$45, and all following visits are $15-$35.**
 
+**Five and ten treatment punchcards may also be purchased for your ease and convenience.  **
+
+**5 treatment punchcard: $125**
+
+**10 treatment punchcard: $250**
+
 **Shiatsu sessions are $45-$60 for 45 minutes.**
