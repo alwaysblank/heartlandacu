@@ -2,13 +2,10 @@
 layout: home
 title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
-intro: >-
+intro: |-
   Fairfield, Iowa
 
-
-  **This Saturday, February 17, Lunar New Year FREE Day! Free treatments from
-  9am-2pm; reception with (free) food and drink 2:30-5pm!  Happy Year of the
-  Earth Dog!**
+  _**New Patient Special! **2 weeks of **unlimited acupuncture **for $75!_
 ---
 ## Welcome to Heartland Community Acupuncture!
 
