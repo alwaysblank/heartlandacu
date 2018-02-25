@@ -1,8 +1,8 @@
 title: Heartland Community Acupuncture
 description: >-
-  Heartland Community Acupuncture provides affordable acupuncture in a safe  and
-  nurturing atmosphere. Licensed Acupuncturist Mara Bateman uses gentle 
-  acupuncture techniques to relax the body and promote healing.
+  Heartland Community Acupuncture provides affordable acupuncture and massage in
+  a safe  and nurturing atmosphere. Licensed Acupuncturist Mara Bateman uses
+  gentle  acupuncture techniques to release tension and promote healing.
 paymessage: Pay what you can; everyone is welcome.
 footer_image: /assets/images/uploads/farm-with-mist.jpg
 email: wellness@heartlandacu.com
@@ -16,28 +16,18 @@ place_id: ChIJv_-aDGxm5ocRjL02GOEvIHg
 schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
   - day: Tuesday
-    note: ''
-    times:
-      - close: '14'
-        open: 09
-  - day: Wednesday
+    note: Walk-in Community Acupuncture
     times:
       - close: '18'
-        open: '13'
-  - day: Thursday
-    times:
-      - close: '14'
-        open: 09
+        open: '14'
   - day: Friday
+    note: Walk-in Community Acupuncture
     times:
       - close: '18'
-        open: '13'
+        open: '14'
   - day: Saturday
+    note: Walk-in Community Acupuncture
     times:
       - close: '14'
-        open: 09
-  - day: Sunday
-    note: closed
-  - day: Monday
-    note: closed
-  - note: Shiatsu by appointment during non-community clinic hours.
+        open: '10'
+  - note: Click "Schedule Now" for Shiatsu & Shiatsu+Acu availability!
