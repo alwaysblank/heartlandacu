@@ -6,15 +6,17 @@ intro: 'Fairfield, Iowa'
 ---
 ## Welcome to Heartland Community Acupuncture!
 
-Heartland Community Acupuncture provides affordable acupuncture in a safe and nurturing atmosphere.  Licensed Acupuncturist Mara Bateman uses gentle acupuncture techniques to relax the body and promote healing.
+Heartland Community Acupuncture provides affordable acupuncture and massage in a safe and nurturing atmosphere.  Licensed Acupuncturist Mara Bateman uses gentle acupuncture techniques to release tension and promote healing.
 
 Our sliding scale payment allows you to receive enough acupuncture to get well and stay well.
 
 Acupuncture can address a wide variety of conditions including: stress, feelings of anxiety and depression, body pain and trauma recovery, hormonal issues, sleep trouble, fatigue, digestive issues, and much more.  See FAQs for more information on what acupuncture can help you with.
 
-We also offer one-on-one Shiatsu Massage sessions by appointment during non-community clinic hours.  For more information about Shiatsu see our About page.   
+One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by appointment during non-community clinic hours.  For more information see our About page. To check availability, or to schedule an appointment, click "Schedule Now".
 
-**Your first acupuncture visit is $25-$45, and all following visits are $15-$35.**
+**Community Acupuncture is $20-$40 sliding scale per visit, plus a one-time $10 fee your first visit.  **
+
+**Community Acupuncture is walk-in only; no appointment necessary!**
 
 **Five and ten treatment punchcards may also be purchased for your ease and convenience.  **
 
@@ -23,3 +25,5 @@ We also offer one-on-one Shiatsu Massage sessions by appointment during non-comm
 **10 treatment punchcard: $250**
 
 **Shiatsu sessions are $45-$60 for 45 minutes.**
+
+**Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
