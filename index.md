@@ -19,7 +19,7 @@ Acupuncture can address a wide variety of conditions including: stress, feelings
 
 One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by appointment during non-community clinic hours.  For more information see our About page. To check availability, or to schedule an appointment, click "Schedule Now".
 
-**Community Acupuncture is $20-$40 sliding scale per visit, plus a one-time $10 fee your first visit.  **
+**Community Acupuncture is $20-$40 sliding scale per visit, plus a one-time $10 fee your first visit. **
 
 **Community Acupuncture is walk-in only; no appointment necessary!**
 
