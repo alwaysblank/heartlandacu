@@ -2,7 +2,12 @@
 layout: home
 title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
-intro: 'Fairfield, Iowa'
+intro: >-
+  Fairfield, Iowa
+
+
+  _**March New Patient Special! Kickstart your health with 2 weeks unlimited
+  acupuncture for $75!  **_
 ---
 ## Welcome to Heartland Community Acupuncture!
 
