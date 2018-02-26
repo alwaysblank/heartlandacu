@@ -31,4 +31,8 @@ Side effects include: better sleep and mood, reduced pain, improved digestion an
 
 ## About Shiatsu
 
-Shiatsu is a form of Japanese Meridan massage. It is a gentle but highly effective bodywork technique that excels at releasing both physical and emotional blockages.  Shiatsu is traditionally performed with the recipient fully clothed reclining on a futon rather than on a massage table.  The practitioner uses passive stretches and gentle to firm pressure along the meridians of the body to promote the flow of Qi and blood, reduce pain and tension, and calm the spirit.
+Shiatsu is a form of Japanese Meridian massage. It is a gentle but highly effective bodywork technique that excels at releasing both physical and emotional blockages.  Shiatsu is traditionally performed with the recipient fully clothed reclining on a futon rather than on a massage table.  The practitioner uses passive stretches and gentle to firm pressure along the meridians of the body to promote the flow of Qi and blood, reduce pain and tension, and calm the spirit.
+
+## About Shiatsu+Acupuncture
+
+These one-on-one sessions combine local and distal needling techniques with shiatsu massage focused on releasing particular areas of pain, tension, or blockage.  Combining the two modalities produces a powerful therapeutic effect.  The private nature of the session allows for local needling of the body, including trigger point release and protocols utilizing the back and core.  The treatment is performed on a massage table, and the recipient will either remain fully clothed, or be draped appropriately to access certain acupuncture points.
