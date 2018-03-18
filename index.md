@@ -6,8 +6,14 @@ intro: >-
   Fairfield, Iowa
 
 
-  _**March New Patient Special! Kickstart your health with 2 weeks unlimited
-  acupuncture for $75!  **_
+  _**Introducing:** **ACUPUNCTURE "HAPPY HOUR"!  Wednesdays 4-5:30pm $10 "Six
+  Point Light Body Treatment"  for a mid-week boost!  Walk-ins only!  Please
+  have cash or check.**_
+
+
+  _(Note: this is not a complaint specific treatment; everyone recieves the same
+  acupoints rather than individualized protocols as during regular community
+  acupuncture hours.)_
 ---
 ## Welcome to Heartland Community Acupuncture!
 
@@ -22,12 +28,6 @@ One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by ap
 **Community Acupuncture is $20-$40 sliding scale per visit, plus a one-time $10 fee your first visit. **
 
 **Community Acupuncture is walk-in only; no appointment necessary!**
-
-**Five and ten treatment punchcards may also be purchased for your ease and convenience.  **
-
-**5 treatment punchcard: $125**
-
-**10 treatment punchcard: $250**
 
 **Shiatsu sessions are $45-$60 for 45 minutes.**
 
