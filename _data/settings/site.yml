@@ -31,3 +31,8 @@ hours:
       - close: '14'
         open: '10'
   - note: Click "Schedule Now" for Shiatsu & Shiatsu+Acu availability!
+  - day: Wednesday
+    note: $10 Light Body Treatment Happy Hour!
+    times:
+      - close: '17'
+        open: '16'
