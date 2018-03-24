@@ -2,18 +2,12 @@
 layout: home
 title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
-intro: >-
+intro: |-
   Fairfield, Iowa
 
+  **_ACUPUNCTURE "HAPPY HOUR"!  Wednesdays 4-5:30pm   _**
 
-  _**Introducing:** **ACUPUNCTURE "HAPPY HOUR"!  Wednesdays 4-5:30pm $10 "Six
-  Point Light Body Treatment"  for a mid-week boost!  Walk-ins only!  Please
-  have cash or check.**_
-
-
-  _(Note: this is not a complaint specific treatment; everyone recieves the same
-  acupoints rather than individualized protocols as during regular community
-  acupuncture hours.)_
+  **_$10 "Six Point Light Body Treatment" _**
 ---
 ## Welcome to Heartland Community Acupuncture!
 
