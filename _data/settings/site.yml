@@ -15,11 +15,6 @@ location_note: (above the Orpheum Theater)
 place_id: ChIJv_-aDGxm5ocRjL02GOEvIHg
 schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
-  - day: Tuesday
-    note: Walk-in Community Acupuncture
-    times:
-      - close: '18'
-        open: '14'
   - day: Friday
     note: Walk-in Community Acupuncture
     times:
