@@ -8,9 +8,7 @@ intro: |-
 
   **Call the Clinic at {{ site.data.settings.site.phone }}**
 
-  **for Shiatsu and Shiatsu+Acupuncture Appointments**
-
-  **Community Acupuncture is Walk-in only; stop on by!**
+  **to book your appointment!**
 ---
 ## First Community Acupuncture Visit
 
@@ -40,6 +38,12 @@ Wear soft and comfortable clothing that may be rolled up past the knee and elbow
 
 For more information, [visit the About page](http://www.heartlandacu.com/about). 
 
+## Cupping Massage Sessions
+
+Cupping is performed one-on-one on a massage table and lasts 45 minutes.  Please wear soft and comfortable clothing.  For cupping it usually necessary to disrobe partially, and massage oil may be used to move the cups or to massage the area after cupping is applied.
+
+For more information, [visit the About Page.](https://heartlandacu.netlify.com/about)
+
 ## Payment
 
 We take cash, check or card, though cash or check is preferable due to high processing fees. We do not bill insurance due to our sliding scale payment model. Please pay prior to treatment. 
@@ -50,13 +54,13 @@ Pay what you are able; we never ask about income.
 
 You may pre-pay for multiple treatments by purchasing a 5 or 10 treatment package.  You will receive a punchcard and simply mark off visits as you go, so you don't have to worry about bringing to correct cash, checkbook, etc.  The 5 treatment package is $125 and the 10 treatment package is $250.  They are valid for one year from time of purchase.
 
-Shiatsu sessions are $45-$60 for 45 minutes.
+Shiatsu sessions and Cupping sessions are $45-$60 for 45 minutes.
 
 Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.
 
 ## Closing Time
 
-Walk-ins are accepted during community acupuncture hours until 10 minutes before listed closing time.  All treatments will be ended by 30 minutes following listed closing time.
+Walk-ins are accepted during community acupuncture hours until 20 minutes before listed closing time.  All treatments will be ended by 20 minutes following listed closing time.
 
 ## Cancellations
 
