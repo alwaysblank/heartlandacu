@@ -21,8 +21,10 @@ One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by ap
 
 **Community Acupuncture is $20-$40 sliding scale per visit, plus a one-time $10 fee your first visit. **
 
-**Community Acupuncture is walk-in only; no appointment necessary!**
-
 **Shiatsu sessions are $45-$60 for 45 minutes.**
 
 **Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
+
+**Cupping Massage $45-$60 for 45 minutes.**
+
+**Click Schedule Now to book your treatment!**
