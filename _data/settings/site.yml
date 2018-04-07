@@ -16,17 +16,17 @@ place_id: ChIJv_-aDGxm5ocRjL02GOEvIHg
 schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
   - day: Friday
-    note: Walk-in Community Acupuncture
+    note: Community Acupuncture
     times:
       - close: '18'
         open: '14'
   - day: Saturday
-    note: Walk-in Community Acupuncture
+    note: Community Acupuncture
     times:
       - close: '14'
         open: '10'
   - day: Wednesday
-    note: Happy Hour!
+    note: Community Acupuncture Happy Hour!
     times:
       - close: '17'
         open: '16'
