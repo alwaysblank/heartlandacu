@@ -36,3 +36,7 @@ Shiatsu is a form of Japanese Meridian massage. It is a gentle but highly effect
 ## About Shiatsu+Acupuncture
 
 These one-on-one sessions combine local and distal needling techniques with shiatsu massage focused on releasing particular areas of pain, tension, or blockage.  Combining the two modalities produces a powerful therapeutic effect.  The private nature of the session allows for local needling of the body, including trigger point release and protocols utilizing the back and core.  The treatment is performed on a massage table, and the recipient will either remain fully clothed, or be draped appropriately to access certain acupuncture points.
+
+## About Cupping
+
+Cupping is an ancient therapeutic technique that has appeared in different forms in various medical traditions across the world.  In Chinese fire cupping, a glass "cup" is used to create suction on the body.  The negative pressure within the cup looses the muscle tissue beneath, promotes blood flow to the area, and sedates the nervous system.  It is used to loosen tight muscles, promote movement of blood and lymph fluid, and loosen and open areas of stuckness.  Cupping is also deeply relaxing and can calm the body and mind during times of stress or anxiety.
