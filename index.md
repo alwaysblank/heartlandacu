@@ -23,4 +23,6 @@ One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by ap
 
 **Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
 
+**Cupping sessions are $45-$60 for 45 minutes.**
+
 **Click Schedule Now to book your treatment!**
