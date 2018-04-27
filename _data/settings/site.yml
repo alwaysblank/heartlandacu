@@ -15,21 +15,24 @@ location_note: (above the Orpheum Theater)
 place_id: ChIJv_-aDGxm5ocRjL02GOEvIHg
 schedule: 'https://www.schedulicity.com/scheduling/HCA5AW'
 hours:
-  - day: Friday
-    note: Community Acupuncture
+  - day: Monday
+    note: Women Only Community Acupuncture
     times:
       - close: '18'
-        open: '14'
-  - day: Saturday
-    note: Community Acupuncture
-    times:
-      - close: '14'
-        open: '10'
-  - day: Wednesday
-    note: Community Acupuncture Happy Hour!
-    times:
-      - close: '17'
         open: '16'
-  - note: >-
-      Click "Schedule Now" for Private Shiatsu, Acupuncture, & Cupping
-      availability!
+  - day: Wednesday
+    note: Open Community Acupuncture
+    times:
+      - close: '18'
+        open: '16'
+  - day: Friday
+    note: Open Community Acupuncture
+    times:
+      - close: '18'
+        open: '16'
+  - day: Saturday
+    note: Community Acupuncture at Farmer's Market!
+    times:
+      - close: '13'
+        open: 09
+  - note: Click "Schedule Now" for Private Shiatsu and Acupuncture availability!
