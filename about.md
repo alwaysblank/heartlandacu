@@ -35,7 +35,7 @@ Shiatsu is a form of Japanese Meridian massage. It is a gentle but highly effect
 
 ## About Shiatsu+Acupuncture
 
-These one-on-one sessions combine local and distal needling techniques with shiatsu massage focused on releasing particular areas of pain, tension, or blockage.  Combining the two modalities produces a powerful therapeutic effect.  The private nature of the session allows for local needling of the body, including trigger point release and protocols utilizing the back and core.  The treatment is performed on a massage table, and the recipient will either remain fully clothed, or be draped appropriately to access certain acupuncture points.
+These one-on-one sessions combine local and distal needling techniques with shiatsu massage and/or cupping focused on releasing particular areas of pain, tension, or blockage.  Combining the two modalities produces a powerful therapeutic effect.  The private nature of the session allows for local needling of the body, including trigger point release and protocols utilizing the back and core.  The treatment is performed on a massage table, and the recipient will either remain fully clothed, or be draped appropriately to access certain acupuncture points.
 
 ## About Cupping
 
