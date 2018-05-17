@@ -2,10 +2,7 @@
 layout: home
 title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
-intro: |-
-  Fairfield, Iowa
-
-  **CLOSED APRIL 26~MAY 9**
+intro: 'Fairfield, Iowa'
 ---
 ## Welcome to Heartland Community Acupuncture!
 
@@ -22,7 +19,5 @@ One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by ap
 **Shiatsu sessions are $45-$60 for 45 minutes.**
 
 **Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
-
-**Cupping sessions are $45-$60 for 45 minutes.**
 
 **Click Schedule Now to book your treatment!**
