@@ -20,4 +20,6 @@ One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by ap
 
 **Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
 
+**NEW! Health Savings Cards are now accepted for private acupuncture sessions!**
+
 **Click Schedule Now to book your treatment!**
