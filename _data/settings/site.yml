@@ -30,9 +30,4 @@ hours:
     times:
       - close: '18'
         open: '16'
-  - day: Saturday
-    note: Community Acupuncture at Farmer's Market!
-    times:
-      - close: '13'
-        open: 09
   - note: Click "Schedule Now" for Private Shiatsu and Acupuncture availability!
