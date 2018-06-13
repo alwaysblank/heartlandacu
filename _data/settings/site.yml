@@ -3,7 +3,7 @@ description: >-
   Heartland Community Acupuncture provides affordable acupuncture and massage in
   a safe  and nurturing atmosphere. Licensed Acupuncturist Mara Bateman uses
   gentle  acupuncture techniques to release tension and promote healing.
-paymessage: Pay what you can; everyone is welcome.
+paymessage: To Schedule a Private Shiatsu or Acupuncture Treatment click "Schedule Now"
 footer_image: /assets/images/uploads/farm-with-mist.jpg
 email: wellness@heartlandacu.com
 phone: 541.760.5115
@@ -30,4 +30,3 @@ hours:
     times:
       - close: '18'
         open: '16'
-  - note: Click "Schedule Now" for Private Shiatsu and Acupuncture availability!
