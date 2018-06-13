@@ -5,13 +5,13 @@ masthead: /assets/images/uploads/sunset.png
 ---
 ![](/assets/images/uploads/mara.jpg)
 
+## About Your Acupuncturist
+
 Mara Bateman has always been intrigued and amazed by the capabilities of the human body and mind. She brings a joy, creativity, and intuitive understanding of the body into her practice as an acupuncturist and bodyworker. With each treatment she strives to create an interaction that is comfortable, healing, and very human. She feels that every person should have the care and support they deserve, regardless of age, class, sex, or income, or education.
 
 Mara Bateman is a Licensed Acupuncturist and Diplomate of Oriental Medicine with the NCCAOM. She holds a Master’s Degree in Acupuncture and Oriental Medicine from the Oregon College of Oriental Medicine in Portland, OR where she studied acupuncture, Chinese herbal medicine and nutrition, and Tuina and Shiatsu Massage. She is also a 200 hour certified Yoga Instructor, and is a certified AcuDetox Specialist with the National Acupuncture Detoxification Association (NADA).
 
 Heartland Community Acupuncture is a member of POCA (The People's Organization of Community Acupuncture) a national cooperative of community acupuncture clinics and practitioners. For more information about POCA, or to locate other community acupuncture clinics, visit www.pocacoop.com.
-
-
 
 ## About Shiatsu
 
