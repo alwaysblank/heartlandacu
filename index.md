@@ -4,22 +4,20 @@ title: Heartland Community Acupuncture
 masthead: /assets/images/uploads/mountains.jpg
 intro: 'Fairfield, Iowa'
 ---
-## Welcome to Heartland Community Acupuncture!
+# Dear Friends & Values Customers,
 
-Heartland Community Acupuncture provides affordable acupuncture and massage in a safe and nurturing atmosphere.  Licensed Acupuncturist Mara Bateman uses gentle acupuncture techniques to release tension and promote healing.
+## As of June 23, 2018, Heartland Community Acupuncture will be closed.   
 
-Our sliding scale payment allows you to receive enough acupuncture to get well and stay well.
+**Starting in August 2018, I am joining forces with my partner, Chinese Herbalist Sean Dugan at **[**Chinese Medicine of Iowa**](www.iowachinesemedicine.com)**, where we will be offering Chinese Herbal Medicine, Acupuncture, and a variety of other wonderful healing modalities in one location! **
 
-Acupuncture can address a wide variety of conditions including: stress, feelings of anxiety and depression, body pain and trauma recovery, hormonal issues, sleep trouble, fatigue, digestive issues, and much more.  See FAQs for more information on what acupuncture can help you with.
+**Our clinic, Chinese Medicine of Iowa, is located **[**here**](https://www.google.com/maps/dir/''/chinese+medicine+of+iowa/@41.0383562,-92.0397397,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87e665ea1827a0e1:0x39b90bac07f94500!2m2!1d-91.9696998!2d41.0383774)**, at the Golden Gate Building at 2094 185th Street, Suite #3, Fairfield IA 52556. **
 
-One-on-one Shiatsu Massage  and Acupuncture+Shiatsu sessions are available by appointment during non-community clinic hours.  For more information see our About page. To check availability, or to schedule an appointment, click "Schedule Now".
+## **To make an appointment with me there, please visit **[**www.iowachinesemedicine.com**](www.iowachinesemedicine.com)** or call me at 319.535.3512.**  
 
-**Community Acupuncture is $15-$35 sliding scale per visit.**
+**I look forward to seeing you in my new location in August!**
 
-**Shiatsu sessions are $45-$60 for 45 minutes.**
+## Regular Community Acupuncture hours will continue through Friday June 22.  **Following that date I will unfortunately no longer be offering Community Acupuncture sessions until further notice.**
 
-**Shiatsu+Acupuncture sessions are $65-$80 for 1 hour.**
+**See you soon & be well!**
 
-**NEW! Health Savings Cards are now accepted for private acupuncture sessions!**
-
-**Click Schedule Now to book your treatment!**
+## **~Mara Bateman, LAc**
