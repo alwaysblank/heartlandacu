@@ -3,7 +3,8 @@ layout: page
 title: Appointments
 masthead: /assets/images/uploads/mountains.jpg
 intro: >-
-  To Schedule an Appointment with me at Chinese Medicine of Iowa Click Here:
+  ## To Schedule an Appointment with Mara at Chinese Medicine of Iowa Click
+  Here:
 
 
   <!-- begin UnifiedPractice booking button --><span title="Online
