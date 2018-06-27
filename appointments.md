@@ -2,7 +2,17 @@
 layout: page
 title: Appointments
 masthead: /assets/images/uploads/mountains.jpg
-intro: ''
+intro: >-
+  To Schedule an Appointment with me at Chinese Medicine of Iowa Click Here:
+
+
+  <!-- begin UnifiedPractice booking button --><span title="Online
+  Scheduling"><a id="book_button" class="up-green-btn btn-large"
+  href="https://ehr.unifiedpractice.com/Public/OnlineBooking?ClinicUid=8d160a21-36fb-470e-bb1a-0b53d75a0c0a"
+  target="_blank"><span id="up_list">Book Appointment</span></a></span><script
+  type="text/javascript"
+  src="https://www.unifiedpractice.com/shared/js/up_button.js"></script><!-- end
+  UnifiedPractice booking button -->
 ---
 ## Shiatsu Sessions
 
