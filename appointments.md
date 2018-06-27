@@ -2,13 +2,7 @@
 layout: page
 title: Appointments
 masthead: /assets/images/uploads/mountains.jpg
-intro: |-
-  {% include schedule.html %}
-  or
-
-  **Call {{ site.data.settings.site.phone }}**
-
-  **to book your appointment!**
+intro: ''
 ---
 ## Shiatsu Sessions
 
